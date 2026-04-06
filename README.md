@@ -20,8 +20,6 @@
 
 </div>
 
-### ✦ Learned at Holberton
-
 > Technologies covered during my training that I should to practice more
 
 <div align="center">
