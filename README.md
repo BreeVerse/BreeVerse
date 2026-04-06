@@ -20,7 +20,7 @@
 
 </div>
 
-> Technologies covered during my training that I should to practice more
+> Technologies covered during my training that I should practice more
 
 <div align="center">
 
