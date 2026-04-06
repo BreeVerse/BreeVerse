@@ -6,7 +6,7 @@
 
 </div>
 
-## ✦ Currently
+# ✦ Currently ✦
 
 - 🌸 RNCP5 Web & Mobile Developer : Holberton School
 - 🌸 Next step: Bachelor in Cybersecurity : ESGI
@@ -28,7 +28,7 @@
 
 </div>
 
-## ✦ Currently working on
+## ✦ Currently working on :
 
 **Irokami** : Intelligent note-taking app (solo)
 
@@ -36,7 +36,7 @@
 - 🌸 Stack: React · TailwindCSS · TipTap · Zustand · TanStack Query · Framer Motion · Node.js · Express · PostgreSQL · Prisma · Supabase · JWT
 - 🌸 Deployed in production: Railway (backend) · Vercel (frontend)
 
-## ✦ Find me on
+## ✦ Find me on ✦
 
 <div align="center">
 
