@@ -14,16 +14,23 @@
 
 ### 🛠 Stack
 
+<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-## ✦ Learned at Holberton — good to revisit
+</div>
+
+### ✦ Learned at Holberton
 
 > Technologies covered during my training that I should to practice more
 
+<div align="center">
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreeVerse&layout=compact&theme=tokyonight&title_color=d18ce6&bg_color=d9ceed&text_color=f0d6f5) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BreeVerse&show_icons=true&theme=dark&title_color=d18ce6&icon_color=9b59b6&text_color=f0d6f5&bg_color=d9ceed)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bree-Coding&layout=compact&theme=tokyonight&title_color=d18ce6&bg_color=d9ceed&text_color=f0d6f5) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bree-Coding&show_icons=true&theme=dark&title_color=d18ce6&icon_color=9b59b6&text_color=f0d6f5&bg_color=d9ceed)
 
+</div>
 ### ✦ Currently working on
 
 **Irokami** : Intelligent note-taking app (solo)
