@@ -1,6 +1,10 @@
 ![BreeVerse Banner](./banner.gif)
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=22&duration=3000&pause=1000&color=d9ceed&center=true&vCenter=true&width=600&lines=%E2%9C%A6%20Hi%2C+%20I'm+Brenda+an+spiring+Fullstack+Developer%20%E2%9C%A6;)](https://git.io/typing-svg)
+
+</div>
 
 ### ✦ Currently
 
