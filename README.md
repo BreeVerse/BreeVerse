@@ -28,14 +28,6 @@
 
 </div>
 
-## ✦ Currently working on :
-
-**Irokami** : Intelligent note-taking app (solo)
-
-- 🌸 Auto-generates quizzes, flashcards and summaries via the Gemini API
-- 🌸 Stack: React · TailwindCSS · TipTap · Zustand · TanStack Query · Framer Motion · Node.js · Express · PostgreSQL · Prisma · Supabase · JWT
-- 🌸 Deployed in production: Railway (backend) · Vercel (frontend)
-
 ## ✦ Find me on ✦
 
 <div align="center">
