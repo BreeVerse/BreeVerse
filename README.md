@@ -12,7 +12,7 @@
 - 🌸 Next step: Bachelor in Cybersecurity : ESGI
 - 🌸 Open to work : Internship or apprenticeship · Toulouse / Tours
 
-## 🛠 Stack
+# 🛠 Stack
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 </div>
 
-## ✦ Find me on ✦
+# ✦ Find me on ✦
 
 <div align="center">
 
